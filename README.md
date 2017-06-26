@@ -1,0 +1,2 @@
+# TerminalText
+terminal generator string
