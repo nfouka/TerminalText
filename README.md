@@ -1,6 +1,8 @@
 # TerminalText
 terminal generator string
 
+echo 'API BlaBla API BLABLA GENERATOR' | figlet -f slant
+
 
     ___          _    ____  __      ____  __      ______          
    /   |  ____  (_)  / __ )/ /___ _/ __ )/ /___ _/ ____/___ ______
